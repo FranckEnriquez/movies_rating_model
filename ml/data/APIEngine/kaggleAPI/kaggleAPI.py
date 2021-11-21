@@ -6,7 +6,7 @@ PATH = '../../datasets/'
 KAGGLE_PATH = 'grouplens/movielens-20m-dataset'
 
 # file names
-file_names = ['link.csv', 'genome_tags.csv']
+file_names = ['genome_tags.csv', 'genome_scores.csv', 'link.csv', 'movie.csv', 'rating.csv', 'tag.csv']
 
 # keys authetication
 api = KaggleApi()
