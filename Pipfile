@@ -11,6 +11,10 @@ jupyter = "*"
 plotly = "*"
 datetime = "*"
 matplotlib = "*"
+scipy = "*"
+seaborn = "*"
+sklearn = "*"
+boto3 = "*"
 
 [dev-packages]
 autopep8 = "*"
