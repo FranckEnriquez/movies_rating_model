@@ -2,8 +2,8 @@
 
 The objective of this challenge is to assess you ability to:
 
-● perform basic data manipulation and data pre-processing
-● demonstrate awareness of the computations involved
+> perform basic data manipulation and data pre-processing
+> demonstrate awareness of the computations involved
 ● perform feature engineering
 ● train and tune ML models
 ● asses performance of the ML models
