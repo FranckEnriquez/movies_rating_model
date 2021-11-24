@@ -26,7 +26,7 @@ The objective of this challenge is to assess you ability to:
         │    │   └── Config.py
         │    │   └── S3.py
         │    ├── kaggleAPI (done)
-        │    │    └── kaggleAPI
+        │    │    └── kaggleAPI.py
   └── kpis
         ├── predictions
         │   ├── df_predictions_logreg_hyper_tuning.csv
