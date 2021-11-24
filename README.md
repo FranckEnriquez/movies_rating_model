@@ -2,15 +2,15 @@
 
 The objective of this challenge is to assess you ability to:
 
-> perform basic data manipulation and data pre-processing
-> demonstrate awareness of the computations involved
-● perform feature engineering
-● train and tune ML models
-● asses performance of the ML models
-● obtaining clear, useful, and business driven insights from data and models
+- perform basic data manipulation and data pre-processing
+- demonstrate awareness of the computations involved
+- perform feature engineering
+- train and tune ML models
+- asses performance of the ML models
+- obtaining clear, useful, and business driven insights from data and models
 
 ## Repository structure
-URL: https://github.com/FranckEnriquez/movies_rating_model
+```URL: https://github.com/FranckEnriquez/movies_rating_model
 <rootDir>
 └── ml
     └── analysis
@@ -55,6 +55,7 @@ URL: https://github.com/FranckEnriquez/movies_rating_model
  └── Pipfile
  └── Pipfile.loc
  └── README.md
+```
 
 ## Initial Setup
 
