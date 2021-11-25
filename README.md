@@ -82,4 +82,4 @@ you need to install **unzip**:
 Please feel free to ask me any outstanding question or concern:
 
 * Phone: 3331856793
-* Email: franckenriquezz@iteso.mx
+* Email: franckenriquezz@gmail.mx
